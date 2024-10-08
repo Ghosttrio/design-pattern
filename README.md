@@ -6,3 +6,6 @@
 
 1. [추상팩토리](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/abstractfactory)
 2. [어댑터](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/adapter)
+3. [브릿지](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/bridge)
+4. [빌더](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/builder)
+5. [책임연쇄](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/chainofresponsibility)
