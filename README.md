@@ -5,3 +5,4 @@
 - 각 디자인 패턴의 설명은 패키지 안의 마크다운 파일에서 확인할 수 있습니다.
 
 1. [추상팩토리](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/abstractfactory)
+2. [어댑터](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/adapter)
