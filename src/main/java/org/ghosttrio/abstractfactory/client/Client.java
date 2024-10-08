@@ -3,8 +3,8 @@ package org.ghosttrio.abstractfactory.client;
 import org.ghosttrio.abstractfactory.abstractfactory.GUIFactory;
 import org.ghosttrio.abstractfactory.abstractproduct.Button;
 import org.ghosttrio.abstractfactory.abstractproduct.TextBox;
-import org.ghosttrio.abstractfactory.implfactory.LinuxFactory;
-import org.ghosttrio.abstractfactory.implfactory.WindowFactory;
+import org.ghosttrio.abstractfactory.concretefactory.LinuxFactory;
+import org.ghosttrio.abstractfactory.concretefactory.WindowFactory;
 
 public class Client {
 

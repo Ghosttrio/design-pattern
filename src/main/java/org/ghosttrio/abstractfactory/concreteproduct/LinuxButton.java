@@ -1,4 +1,4 @@
-package org.ghosttrio.abstractfactory.productimpl;
+package org.ghosttrio.abstractfactory.concreteproduct;
 
 import org.ghosttrio.abstractfactory.abstractproduct.Button;
 
