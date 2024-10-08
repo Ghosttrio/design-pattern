@@ -1,4 +1,4 @@
-package org.ghosttrio.adapter;
+package org.ghosttrio.adapter.client;
 
 import org.ghosttrio.adapter.adaptee.Turkey;
 import org.ghosttrio.adapter.adapter.TurkeyAdapter;

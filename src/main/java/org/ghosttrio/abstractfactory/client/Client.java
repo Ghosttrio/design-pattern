@@ -1,4 +1,4 @@
-package org.ghosttrio.abstractfactory;
+package org.ghosttrio.abstractfactory.client;
 
 import org.ghosttrio.abstractfactory.abstractfactory.GUIFactory;
 import org.ghosttrio.abstractfactory.abstractproduct.Button;
