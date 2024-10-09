@@ -14,7 +14,7 @@
 8. [Decorator](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/decorator/Decorator.md)
 9. [Facade](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/facade/Facade.md)
 10. [Factory Method](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/factorymethod/FactoryMethod.md)
-11. [Flyweigth](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/flyweigth/Flyweigth.md)
+11. [Flyweigth](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/flyweight/Flyweight.md)
 12. [Iterator](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/iterator/Iterator.md)
 13. [Mediator](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/mediator/Mediator.md)
 14. [Memento](https://github.com/Ghosttrio/design-pattern-sample/tree/master/src/main/java/org/ghosttrio/memento/Memento.md)
